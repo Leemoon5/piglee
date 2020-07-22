@@ -2,8 +2,8 @@
     "homepage": "https://pan.baidu.com/download",
     "description": "百度网盘PC版",
     "version": "6.9.10.1",
-    "url": "https://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_6.9.10.1.exe#/dl.7z",
-    "hash": "6958928D570C95BBAFFCBBC38FA398E56CB3542CF88F6D9968DCB930DBA95227",
+    "url": "https://wppkg.baidupcs.com/issue/netdisk/yunguanjia/BaiduYunGuanjia_7.0.1.1.exe#/dl.7z",
+    "hash": "40B96046BE679B81A99B80ACAF89A5D154D1FE4A127BBE6B8A6D9C8F43BE8BB8",
     "bin": "BaiduNetdisk.exe",
     "persist": "users",
     "post_install": [
